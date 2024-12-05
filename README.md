@@ -89,7 +89,7 @@ pip install -r requirements.txt
 Inicie o chatbot com o seguinte comando:
 
 ```bash
-streamlit run app.py
+streamlit run oraculo.py
 ```
 
 A aplicação será aberta automaticamente no navegador. Caso isso não ocorra, copie e cole o endereço exibido no terminal em seu navegador.
