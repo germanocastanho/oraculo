@@ -25,7 +25,7 @@ O **Oráculo Acadêmico** é um chatbot projetado para interagir com arquivos ma
 Este projeto está aberto à contribuição da comunidade.
 Sugestões, melhorias e colaborações são altamente encorajadas para expandir sua funcionalidade e utilidade.
 
-### Instalação
+### Instalação:
 
 **1. Pré-requisitos**
 
