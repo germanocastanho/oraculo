@@ -1,3 +1,6 @@
+#  Copyleft (C), 2024, Germano Castanho
+#  Software livre licenciado sob a GPL-3.0. Uso, modificação e redistribuição permitidos, desde que nos mesmos termos.
+
 import os
 import re
 import streamlit as st
