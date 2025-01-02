@@ -50,7 +50,7 @@ Antes de começar, certifique-se de ter:
    ```
 5. **Execute o Oráculo**:
    ```bash
-   streamlit run oraculo.py
+   streamlit run main.py
    ```
 
 ## 🚀 Configuração e Utilização
